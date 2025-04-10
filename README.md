@@ -42,7 +42,7 @@ MAX_PAGES=3
 
 1. `.env` dosyasını düzenledikten sonra, aşağıdaki komutu çalıştırın:
 ```
-python run_scraper.py
+python freelancer_ui.py
 ```
 
 2. Script otomatik olarak:
